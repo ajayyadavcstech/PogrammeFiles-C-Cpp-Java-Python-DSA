@@ -1,0 +1,13 @@
+drnked boy
+hh
+hh
+qwe
+hii
+ff
+ff
+ww
+w
+ff
+dd
+<class 'datetime.datetime'> : drank
+

@@ -1,0 +1,7 @@
+n=5
+ factorial(5)// function call
+1. 5*factorial(4) 
+2. 5*4*factorial(3) 
+3. 5*4*3*factroial(2) 
+4. 5*4*3*2*factorial(1) 
+5. 5*4*3*2*1

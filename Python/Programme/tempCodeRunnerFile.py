@@ -1,0 +1,2 @@
+def searcher():
+    import time
